@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://0126439be1985b3dc3.gradio.live/"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=gradio"></a>
+  <a href="https://huggingface.co/spaces/userdead99/sentiment_analysis"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=gradio"></a>
   <img src="https://img.shields.io/badge/Accuracy-93%25-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/F1-0.92-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Model-DistilBERT-yellow?style=for-the-badge">
